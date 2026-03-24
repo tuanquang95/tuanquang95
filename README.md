@@ -19,10 +19,10 @@ multi-agent architectures, and cloud deployment.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thq1995&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanquang95&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![My Portfolio](My Portfolio)](https://tuanquang.com)
