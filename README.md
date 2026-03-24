@@ -86,10 +86,7 @@ multi-agent architectures, and cloud deployment.
 
 ---
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FFD1,100:0D0D0D&height=100&section=footer&fontSize=14&fontColor=00FFD1&animation=twinkling" />
-</div>
-
+<!--FOOTER-->
 <div align="center">
 
 <code>>>> prompt = "what do you do?"</code>
@@ -105,9 +102,5 @@ multi-agent architectures, and cloud deployment.
 <br/>
 
 <code>[tokens: 24 | latency: &lt;1ms | confidence: 1.00]</code>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=thq1995&color=00FFD1&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
