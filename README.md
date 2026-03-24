@@ -86,20 +86,28 @@ multi-agent architectures, and cloud deployment.
 
 ---
 
-<!-- FOOTER -->
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FFD1,100:0D0D0D&height=100&section=footer&fontSize=14&fontColor=00FFD1&animation=twinkling" />
+</div>
 
 <div align="center">
 
-```python
->>> prompt  = "what do you do?"
->>> response = generate(prompt)
+<code>>>> prompt = "what do you do?"</code>
 
-> I don't just run models.
-> I build the systems that run them,
-> and teach the engineers who'll build the next.
+<code>>>> response = generate(prompt)</code>
 
-[tokens: 24 | latency: <1ms | confidence: 1.00]
-```
+<br/>
+
+<i>I don't just run models.</i><br/>
+<i>I build the systems that run them,</i><br/>
+<i>and teach the engineers who'll build the next.</i>
+
+<br/>
+
+<code>[tokens: 24 | latency: &lt;1ms | confidence: 1.00]</code>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=thq1995&color=00FFD1&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
