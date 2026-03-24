@@ -89,7 +89,7 @@ multi-agent architectures, and cloud deployment.
 <!--FOOTER-->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=120&lines=%3E%3E%3E+prompt+%3D+%22what+do+you+do%3F%22;%3E%3E%3E+response+%3D+generate(prompt);I+don't+just+run+models.+I+build+the+systems+that+run+them%2C;and+teach+the+engineers+who'll+build+the+next.;%5Btokens%3A+24+%7C+latency%3A+%3C1ms+%7C+confidence%3A+1.00%5D" alt="footer quote" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=400&speed=30&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=120&lines=%3E%3E%3E+prompt+%3D+%22what+do+you+do%3F%22;%3E%3E%3E+response+%3D+generate(prompt);I+don't+just+run+models.+I+build+the+systems+that+run+them%2C;and+teach+the+engineers+who'll+build+the+next.;%5Btokens%3A+24+%7C+latency%3A+%3C1ms+%7C+confidence%3A+1.00%5D" alt="footer quote" />
 
 
 </div>
