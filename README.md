@@ -84,6 +84,17 @@ multi-agent architectures, and cloud deployment.
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
 ---
+
+<!-- FOOTER -->
+<div align="center">
+
+```python
+>>> prompt  = "what do you do?"
+>>> response = generate(prompt)
+
+> I don't just run models.
+> I build the systems that run them,
+> and teach the engineers who'll build the next.
+
+[tokens: 24 | latency: <1ms | confidence: 1.00]
 ```
-> "Build systems that scale. Teach what you build."
-``
