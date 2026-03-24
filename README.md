@@ -7,11 +7,6 @@ multi-agent architectures, and cloud deployment.
 
 ---
 
-<!-- HEADER BANNER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FFD1,100:0D0D0D&height=200&section=header&text=JOHN%20%7C%20MLOps%20%26%20LLMOps&fontSize=42&fontColor=00FFD1&fontAlignY=38&desc=Building%20Intelligence%20at%20Scale&descSize=16&descAlignY=58&descColor=AAAAAA&animation=twinkling" />
-</div>
-
 <!-- TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=00FFD1&center=true&vCenter=true&multiline=false&width=600&height=40&lines=%24+initializing+production+LLM+systems...;%24+fine-tuning+%7C+RAG+%7C+multi-agent+%7C+deploy;%24+building+legal+AI+%40+Shegerian+%26+Associates;%24+quantizing+models+%7C+GPTQ+%7C+AWQ+%7C+GGUF;%24+teaching+MLOps+%26+LLMOps+at+scale" alt="Typing SVG" />
@@ -21,26 +16,14 @@ multi-agent architectures, and cloud deployment.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/─%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thq1995)
-[![Portfolio](https://img.shields.io/badge/─%20Portfolio-00FFD1?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuan-quang-b079b5138/)
+[![GitHub](https://img.shields.io/badge/─%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tuanquang95)
+[![Portfolio](https://img.shields.io/badge/─%20Portfolio-00FFD1?style=flat-square&logo=vercel&logoColor=black)](https://tuanquang.com)
 
 </div>
 
 ---
 
-## ⚡ Current Processes
-
-```python
-active_projects = {
-    "legal_ai_system":  "RAG + agents for employment law @ Shegerian & Associates",
-    "hybrid_search_rag": "BM25 + FAISS + Reciprocal Rank Fusion",
-    "quantized_serving": "GPTQ/AWQ/GGUF inference on RunPod serverless",
-    "curriculum":        "12–18mo MLOps/LLMOps full-stack learning roadmap",
-}
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -71,6 +54,7 @@ active_projects = {
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### 🤝 Multi-Agent Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-E63946?style=flat-square&logo=python&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
@@ -147,12 +131,12 @@ CrewAI + LangChain article generation with local Ollama models (Gemma, Llama, Mi
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thq1995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=AAAAAA" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thq1995&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FFD1&text_color=AAAAAA" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tuanquang95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=AAAAAA" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanquang95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FFD1&text_color=AAAAAA" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thq1995&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFD1&ring=00FFD1&fire=FF6B35&currStreakNum=FFFFFF&dates=AAAAAA" />
+  <img src="https://streak-stats.demolab.com?user=tuanquang95&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFD1&ring=00FFD1&fire=FF6B35&currStreakNum=FFFFFF&dates=AAAAAA" />
 </div>
 
 <!-- SNAKE ANIMATION -->
@@ -162,17 +146,8 @@ CrewAI + LangChain article generation with local Ollama models (Gemma, Llama, Mi
 
 ---
 
-<!-- FOOTER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FFD1,100:0D0D0D&height=100&section=footer&fontSize=14&fontColor=00FFD1&animation=twinkling" />
-</div>
-
 <div align="center">
 
 ```
 > "Build systems that scale. Teach what you build."
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=thq1995&color=00FFD1&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
+``
