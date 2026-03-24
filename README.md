@@ -139,10 +139,6 @@ CrewAI + LangChain article generation with local Ollama models (Gemma, Llama, Mi
   <img src="https://streak-stats.demolab.com?user=tuanquang95&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFD1&ring=00FFD1&fire=FF6B35&currStreakNum=FFFFFF&dates=AAAAAA" />
 </div>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thq1995/thq1995/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
