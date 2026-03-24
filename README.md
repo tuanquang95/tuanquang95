@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tuan 👋
 
-<!--
-**tuanquang95/tuanquang95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 MLOps & AI Engineer | AI/ML Educator
 
-Here are some ideas to get you started:
+Building production-grade LLM systems — RAG pipelines, fine-tuning, 
+multi-agent architectures, and cloud deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+**LLMs & Fine-Tuning:** QLoRA, PEFT, BitsAndBytes, GPTQ, AWQ, GGUF, Unsloth  
+**RAG & Retrieval:** LangChain, LangGraph, FAISS, ChromaDB, BM25, Hybrid Search  
+**Deployment:** RunPod Serverless, FastAPI, Docker, AWS (ECR/ECS/S3), GCP  
+**Orchestration:** Apache Airflow, CrewAI, LangGraph  
+**Monitoring:** Weights & Biases, MLflow  
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thq1995&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
