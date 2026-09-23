@@ -1,6 +1,6 @@
 # Hi, I'm Tuan 👋
 
-## 🤖 MLOps & AI Engineer | AI/ML Educator
+## Software Engineer, Applied AI
 
 Building production-grade LLM systems — RAG pipelines, fine-tuning, 
 multi-agent architectures, and cloud deployment.
